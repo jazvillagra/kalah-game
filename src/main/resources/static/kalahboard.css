@@ -1,0 +1,78 @@
+.kalahboard{
+  width: 1000px;
+  height: 600px;
+  background-color: #a06b1b;
+  margin: 0 auto;
+  text-align: center;
+  border-radius:150px;
+  margin-bottom:150px;
+  border-style: outset;
+}
+.statusboard{
+  display: inline-block;
+  text-align: top;
+  font-size: 25px;
+  padding-top : 0px;
+  padding-bottom : 15px;
+  font-style: oblique;
+  font-weight: bold ;
+  color: white;
+}
+.gameblock{
+  display: inline-block;
+  padding: 1px;
+}
+.kalah{
+  height:200px;
+  width:100px;
+  background-color:#916211;
+  border-radius:100px;
+  margin-bottom:100px;
+  border:  2px inset;
+  display: inline-block;
+  border-color:#7c540d;
+  text-align: center;
+  justify-content: center;
+  font-size: 40px;
+  vertical-align: middle;
+  line-height: 50px;
+}
+.pitrow{
+  border: 2px ;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  clear: both;
+  padding-top: 50px;
+  padding-bottom: 30px;
+
+}
+.pit{
+  height:90px;
+  width:100px;
+  background-color:#916211;
+  border-radius:100%;
+  margin-bottom:5px;
+  text-align: center;
+  border: 2px  inset ;
+  border-color:#7c540d;
+  display: inline-block;
+  font-size: 40px;
+  line-height: 50px;
+}
+.player1Title{
+  height:1px;
+  width:50;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold ;
+}
+.player2Title{
+  height:1px;
+  width:50;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold ;
+  font-style: italic;
+}
